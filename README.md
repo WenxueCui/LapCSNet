@@ -4,7 +4,7 @@
 
 ## Framework of LapCSNet
 
-
+![image](https://github.com/WenxueCui/LapCSNet/raw/master/images/framework.jpg)
 
 ## Requirements
 
