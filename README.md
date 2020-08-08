@@ -11,7 +11,7 @@
 
 * Windows10
 * Matlab R2015b
-* MatconvNet 1.0-beta23
+* MatconvNet 1.0-beta23 (https://www.vlfeat.org/matconvnet/)
 * CUDA 8.0
 
 ## How to Run
