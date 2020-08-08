@@ -1,6 +1,7 @@
 # LapCSNet-Pytorch
 
 * Officical code of paper "An efficient deep convolutional laplacian pyramid architecture for CS reconstruction at low sampling ratios" ICASSP2018
+* Download the paper: https://arxiv.org/pdf/1804.04970.pdf
 
 ## Framework of LapCSNet
 
@@ -25,3 +26,7 @@
 * Test the LapCSNet, `test_LapCSN_main(100, 200)`
 
 ## Experimental Results
+
+![image](https://github.com/WenxueCui/LapCSNet/raw/master/images/results.jpg)
+
+![image](https://github.com/WenxueCui/LapCSNet/raw/master/images/table.jpg)
