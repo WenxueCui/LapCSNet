@@ -18,7 +18,7 @@
 
 ### Training
 
-* Copying the function in `+dagnn` folder to your Matconvnet location `<MatconvNet>\matlab\+dagnn`
+* Copying the function in `+dagnn` folder to your `Matconvnet` location `<MatconvNet>\matlab\+dagnn`
 * Preparing the training data. (T91 and BSDS200 are included in our repo)
 * Train the LapCSNet, run the code `train_LapCSN(0.1, 2, 0);`
 
