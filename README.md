@@ -27,6 +27,28 @@
 
 ## Experimental Results
 
+### Subjective results
+
 ![image](https://github.com/WenxueCui/LapCSNet/raw/master/images/results.jpg)
 
+### Objective results
+
 ![image](https://github.com/WenxueCui/LapCSNet/raw/master/images/table.jpg)
+
+## Additional instructions
+
+* For training data, you can choose any dataset by yourself.
+* When subrate<=0.25, the laplacian structure can be used.
+* If you have any problem, please email wenxuecui@stu.hit.edu.cn
+
+## Citation
+
+`@article{Cui2018An,
+  title={An efficient deep convolutional laplacian pyramid architecture for CS reconstruction at low sampling ratios},
+  author={Cui, Wenxue and Xu, Heyao and Gao, Xinwei and Zhang, Shengping and Jiang, Feng and Zhao, Debin},
+  year={2018},
+}`
+
+## Acknowledgments
+
+
