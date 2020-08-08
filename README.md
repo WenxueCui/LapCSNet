@@ -32,6 +32,12 @@ The third param is gpu setting. (0 is CPU, 1 is GPU)
 * Preparing the testing data. (Set5 and Set14 are included in our repo)
 * Test the LapCSNet, run the code `test_LapCSN_main(100, 200)`
 
+```
+The first param is start epoch for testing model
+The second param is end epoch for testing model 
+```
+
+
 ## Experimental Results
 
 ### Subjective results
@@ -63,4 +69,4 @@ The third param is gpu setting. (0 is CPU, 1 is GPU)
 
 ## Acknowledgments
 
-
+This code is built based on the repo https://github.com/phoenix104104/LapSRN
