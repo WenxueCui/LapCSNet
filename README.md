@@ -43,11 +43,13 @@
 
 ## Citation
 
-`@article{Cui2018An,
+```
+@article{Cui2018An,
   title={An efficient deep convolutional laplacian pyramid architecture for CS reconstruction at low sampling ratios},
   author={Cui, Wenxue and Xu, Heyao and Gao, Xinwei and Zhang, Shengping and Jiang, Feng and Zhao, Debin},
   year={2018},
-}`
+}
+```
 
 ## Acknowledgments
 
