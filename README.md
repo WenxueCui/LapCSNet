@@ -12,18 +12,25 @@
 * Windows10
 * Matlab R2015b
 * MatconvNet 1.0-beta23
+* CUDA 8.0
 
 ## How to Run
 
 ### Training
 
 * Preparing the training data. (T91 and BSDS200 are included in our repo)
-* Train the LapCSNet, `train_LapCSN(0.1, 2, 0);`
+* Train the LapCSNet, run the code `train_LapCSN(0.1, 2, 0);`
+
+```
+The first param is CS subrate
+The second param is the number of conv layers in each pyramid level
+The third param is gpu setting. (0 is CPU, 1 is GPU)
+```
 
 ### Testing
 
 * Preparing the testing data. (Set5 and Set14 are included in our repo)
-* Test the LapCSNet, `test_LapCSN_main(100, 200)`
+* Test the LapCSNet, run the code `test_LapCSN_main(100, 200)`
 
 ## Experimental Results
 
@@ -42,6 +49,8 @@
 * If you have any problem, please email wenxuecui@stu.hit.edu.cn
 
 ## Citation
+
+* If you find the code is useful in your research, please cite:
 
 ```
 @article{Cui2018An,
