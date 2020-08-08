@@ -40,11 +40,11 @@ The second param is end epoch for testing model
 
 ## Experimental Results
 
-### Subjective results
+* ### Subjective results
 
 ![image](https://github.com/WenxueCui/LapCSNet/raw/master/images/results.jpg)
 
-### Objective results
+* ### Objective results
 
 ![image](https://github.com/WenxueCui/LapCSNet/raw/master/images/table.jpg)
 
