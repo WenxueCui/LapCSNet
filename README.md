@@ -53,6 +53,7 @@ The second param is end epoch for testing model
 
 * For training data, you can choose any dataset by yourself.
 * When subrate<=0.25, the laplacian structure can be used.
+* If you like this repo, Star or Fork to support my work. Thank you.
 * If you have any problem, please email wenxuecui@stu.hit.edu.cn
 
 ## Citation
